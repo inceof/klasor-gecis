@@ -1,0 +1,42 @@
+name: Windows build and tests
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  windows:
+    runs-on: windows-latest
+    timeout-minutes: 20
+    defaults:
+      run:
+        shell: pwsh
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-dotnet@67a3573c9a986a3f9c594539f4ab511d57bb3ce9 # v4
+        with:
+          dotnet-version: '10.0.300'
+      - name: Build, test and publish portable files
+        run: ./build.ps1
+      - name: Verify package checksums
+        run: ./build.ps1 -VerifyChecksums
+      - name: Windows PowerShell 5.1 checksum regressions
+        shell: powershell
+        run: ./tests/ChecksumTests.ps1
+      - name: Store portable files with license notices
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: KlasorGecis-windows-x64
+          if-no-files-found: error
+          retention-days: 7
+          path: |
+            release/win-x64/KlasorGecis.exe
+            release/win-x64/LICENSE
+            release/win-x64/THIRD-PARTY-NOTICES.md
+            release/win-x64/licenses/**
