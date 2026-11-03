@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <AssemblyName>KlasorGecis</AssemblyName>
+    <RootNamespace>KlasorGecis</RootNamespace>
+    <Version>0.5.0</Version>
+    <Description>Açık Explorer klasörüne dosya penceresinden geçiş</Description>
+    <PublishTrimmed>false</PublishTrimmed>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Translations.json" />
+    <InternalsVisibleTo Include="KlasorGecis.Tests" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1218 @@
+{
+  "Etkin": {
+    "en": "Enabled",
+    "zh-CN": "已启用",
+    "hi": "सक्रिय",
+    "es": "Activado",
+    "ar": "مفعّل",
+    "tr": "Etkin"
+  },
+  "Açık klasör bekleniyor": {
+    "en": "Waiting for an open folder",
+    "zh-CN": "等待打开的文件夹",
+    "hi": "खुले फ़ोल्डर की प्रतीक्षा है",
+    "es": "Esperando una carpeta abierta",
+    "ar": "بانتظار مجلد مفتوح",
+    "tr": "Açık klasör bekleniyor"
+  },
+  "Windows ile başlat": {
+    "en": "Start with Windows",
+    "zh-CN": "随 Windows 启动",
+    "hi": "Windows के साथ शुरू करें",
+    "es": "Iniciar con Windows",
+    "ar": "التشغيل مع Windows",
+    "tr": "Windows ile başlat"
+  },
+  "Yönetici modu etkin": {
+    "en": "Administrator mode enabled",
+    "zh-CN": "管理员模式已启用",
+    "hi": "व्यवस्थापक मोड सक्रिय",
+    "es": "Modo de administrador activo",
+    "ar": "وضع المسؤول مفعّل",
+    "tr": "Yönetici modu etkin"
+  },
+  "Yönetici olarak yeniden başlat": {
+    "en": "Restart as administrator",
+    "zh-CN": "以管理员身份重新启动",
+    "hi": "व्यवस्थापक के रूप में पुनः शुरू करें",
+    "es": "Reiniciar como administrador",
+    "ar": "إعادة التشغيل كمسؤول",
+    "tr": "Yönetici olarak yeniden başlat"
+  },
+  "Tanılama kaydını aç": {
+    "en": "Open diagnostic log",
+    "zh-CN": "打开诊断日志",
+    "hi": "निदान लॉग खोलें",
+    "es": "Abrir registro de diagnóstico",
+    "ar": "فتح سجل التشخيص",
+    "tr": "Tanılama kaydını aç"
+  },
+  "Çıkış": {
+    "en": "Exit",
+    "zh-CN": "退出",
+    "hi": "बाहर निकलें",
+    "es": "Salir",
+    "ar": "خروج",
+    "tr": "Çıkış"
+  },
+  "Explorer'dan dönünce otomatik geç": {
+    "en": "Switch automatically when returning from Explorer",
+    "zh-CN": "从资源管理器返回时自动切换",
+    "hi": "Explorer से लौटने पर अपने आप बदलें",
+    "es": "Cambiar al volver del Explorador",
+    "ar": "التبديل تلقائيًا عند العودة من المستكشف",
+    "tr": "Explorer'dan dönünce otomatik geç"
+  },
+  "Son klasörleri hatırla": {
+    "en": "Remember recent folders",
+    "zh-CN": "记住最近的文件夹",
+    "hi": "हाल के फ़ोल्डर याद रखें",
+    "es": "Recordar carpetas recientes",
+    "ar": "تذكّر المجلدات الأخيرة",
+    "tr": "Son klasörleri hatırla"
+  },
+  "Kapalıyken yeni kayıt tutulmaz. Önceki kayıtlar Geçmişi temizle ile kaldırılır.": {
+    "en": "When disabled, no new history is saved. Use Clear history to remove earlier entries.",
+    "zh-CN": "关闭后不再保存新记录。使用“清除历史记录”删除已有记录。",
+    "hi": "बंद होने पर नया इतिहास नहीं सहेजा जाता। पुराने रिकॉर्ड हटाने के लिए इतिहास साफ़ करें का उपयोग करें।",
+    "es": "Al desactivar, no se guardan nuevos registros. Use Borrar historial para eliminar los anteriores.",
+    "ar": "عند التعطيل لن تُحفظ سجلات جديدة. استخدم مسح السجل لإزالة السجلات السابقة.",
+    "tr": "Kapalıyken yeni kayıt tutulmaz. Önceki kayıtlar Geçmişi temizle ile kaldırılır."
+  },
+  "Geçmişi temizle": {
+    "en": "Clear history",
+    "zh-CN": "清除历史记录",
+    "hi": "इतिहास साफ़ करें",
+    "es": "Borrar historial",
+    "ar": "مسح السجل",
+    "tr": "Geçmişi temizle"
+  },
+  "Kısayolu değiştir…": {
+    "en": "Change shortcut…",
+    "zh-CN": "更改快捷键…",
+    "hi": "शॉर्टकट बदलें…",
+    "es": "Cambiar atajo…",
+    "ar": "تغيير الاختصار…",
+    "tr": "Kısayolu değiştir…"
+  },
+  "Ayarlar…": {
+    "en": "Settings…",
+    "zh-CN": "设置…",
+    "hi": "सेटिंग्स…",
+    "es": "Configuración…",
+    "ar": "الإعدادات…",
+    "tr": "Ayarlar…"
+  },
+  "Explorer'da bir klasör açın. Aç / Kaydet penceresindeki klasör satırına tıklayın veya ": {
+    "en": "Open a folder in Explorer. Click the folder bar in an Open / Save dialog or use ",
+    "zh-CN": "在资源管理器中打开文件夹。在打开或保存对话框中点击文件夹栏，或使用 ",
+    "hi": "Explorer में फ़ोल्डर खोलें। खोलें / सहेजें विंडो में फ़ोल्डर पट्टी पर क्लिक करें या ",
+    "es": "Abra una carpeta en el Explorador. Pulse la barra de carpetas en Abrir / Guardar o use ",
+    "ar": "افتح مجلدًا في المستكشف. انقر على شريط المجلد في نافذة فتح أو حفظ، أو استخدم ",
+    "tr": "Explorer'da bir klasör açın. Aç / Kaydet penceresindeki klasör satırına tıklayın veya "
+  },
+  " kullanın.": {
+    "en": ".",
+    "zh-CN": "。",
+    "hi": " का उपयोग करें।",
+    "es": ".",
+    "ar": ".",
+    "tr": " kullanın."
+  },
+  "Pencere geçişleri izlenemedi; elle geçiş kullanılabilir.": {
+    "en": "Window changes could not be monitored; manual switching is available.",
+    "zh-CN": "无法监测窗口切换；仍可手动切换。",
+    "hi": "विंडो बदलावों की निगरानी नहीं हो सकी; मैन्युअल बदलाव उपलब्ध है।",
+    "es": "No se pudieron supervisar los cambios de ventana; puede cambiar manualmente.",
+    "ar": "تعذّرت مراقبة تبديل النوافذ؛ التبديل اليدوي متاح.",
+    "tr": "Pencere geçişleri izlenemedi; elle geçiş kullanılabilir."
+  },
+  "Açık bir Explorer klasörü seçilemedi.": {
+    "en": "No open Explorer folder could be selected.",
+    "zh-CN": "无法选择打开的资源管理器文件夹。",
+    "hi": "कोई खुला Explorer फ़ोल्डर नहीं चुना जा सका।",
+    "es": "No se pudo seleccionar una carpeta abierta del Explorador.",
+    "ar": "تعذّر اختيار مجلد مفتوح في المستكشف.",
+    "tr": "Açık bir Explorer klasörü seçilemedi."
+  },
+  "Explorer yanıt vermiyor. Devam ederse Klasör Geçiş'i yeniden başlatın.": {
+    "en": "Explorer is not responding. Restart Klasör Geçiş if this continues.",
+    "zh-CN": "资源管理器无响应。如果持续如此，请重新启动 Klasör Geçiş。",
+    "hi": "Explorer प्रतिसाद नहीं दे रहा। समस्या बनी रहे तो Klasör Geçiş पुनः शुरू करें।",
+    "es": "El Explorador no responde. Reinicie Klasör Geçiş si continúa.",
+    "ar": "المستكشف لا يستجيب. أعد تشغيل Klasör Geçiş إذا استمرت المشكلة.",
+    "tr": "Explorer yanıt vermiyor. Devam ederse Klasör Geçiş'i yeniden başlatın."
+  },
+  "Explorer klasörleri okunamadı. Klasör Geçiş'i yeniden başlatın.": {
+    "en": "Explorer folders could not be read. Restart Klasör Geçiş.",
+    "zh-CN": "无法读取资源管理器文件夹。请重新启动 Klasör Geçiş。",
+    "hi": "Explorer फ़ोल्डर पढ़े नहीं जा सके। Klasör Geçiş पुनः शुरू करें।",
+    "es": "No se pudieron leer las carpetas del Explorador. Reinicie Klasör Geçiş.",
+    "ar": "تعذّرت قراءة مجلدات المستكشف. أعد تشغيل Klasör Geçiş.",
+    "tr": "Explorer klasörleri okunamadı. Klasör Geçiş'i yeniden başlatın."
+  },
+  "Klasöre geçiliyor…": {
+    "en": "Switching folder…",
+    "zh-CN": "正在切换文件夹…",
+    "hi": "फ़ोल्डर बदला जा रहा है…",
+    "es": "Cambiando de carpeta…",
+    "ar": "جارٍ تبديل المجلد…",
+    "tr": "Klasöre geçiliyor…"
+  },
+  "Kayıtlı klasöre erişilemiyor; geçiş yapılmadı.": {
+    "en": "The saved folder is unavailable; no switch was made.",
+    "zh-CN": "保存的文件夹不可用；未切换。",
+    "hi": "सहेजा हुआ फ़ोल्डर उपलब्ध नहीं है; बदलाव नहीं हुआ।",
+    "es": "La carpeta guardada no está disponible; no se realizó el cambio.",
+    "ar": "المجلد المحفوظ غير متاح؛ لم يتم التبديل.",
+    "tr": "Kayıtlı klasöre erişilemiyor; geçiş yapılmadı."
+  },
+  "Kaynak klasör değişti veya kapandı; tekrar seçin.": {
+    "en": "The source folder changed or closed; select it again.",
+    "zh-CN": "源文件夹已更改或关闭；请重新选择。",
+    "hi": "स्रोत फ़ोल्डर बदल गया या बंद हो गया; फिर चुनें।",
+    "es": "La carpeta de origen cambió o se cerró; selecciónela de nuevo.",
+    "ar": "تغيّر المجلد المصدر أو أُغلق؛ اختره مجددًا.",
+    "tr": "Kaynak klasör değişti veya kapandı; tekrar seçin."
+  },
+  "Bu konum erişilebilir bir klasör değil; geçiş yapılmadı.": {
+    "en": "This location is not an accessible folder; no switch was made.",
+    "zh-CN": "此位置不是可访问的文件夹；未切换。",
+    "hi": "यह स्थान पहुँच योग्य फ़ोल्डर नहीं है; बदलाव नहीं हुआ।",
+    "es": "Esta ubicación no es una carpeta accesible; no se realizó el cambio.",
+    "ar": "هذا الموقع ليس مجلدًا يمكن الوصول إليه؛ لم يتم التبديل.",
+    "tr": "Bu konum erişilebilir bir klasör değil; geçiş yapılmadı."
+  },
+  "Kaynak veya dosya penceresi değişti; tekrar deneyin.": {
+    "en": "The source or file dialog changed; try again.",
+    "zh-CN": "源或文件对话框已更改；请重试。",
+    "hi": "स्रोत या फ़ाइल विंडो बदल गई; फिर कोशिश करें।",
+    "es": "El origen o el diálogo de archivos cambió; inténtelo de nuevo.",
+    "ar": "تغيّر المصدر أو نافذة الملفات؛ حاول مجددًا.",
+    "tr": "Kaynak veya dosya penceresi değişti; tekrar deneyin."
+  },
+  "Klasöre geçildi; geçmiş kaydedilemedi.": {
+    "en": "Folder switched; history could not be saved.",
+    "zh-CN": "文件夹已切换；无法保存历史记录。",
+    "hi": "फ़ोल्डर बदल गया; इतिहास सहेजा नहीं जा सका।",
+    "es": "Carpeta cambiada; no se pudo guardar el historial.",
+    "ar": "تم تبديل المجلد؛ تعذّر حفظ السجل.",
+    "tr": "Klasöre geçildi; geçmiş kaydedilemedi."
+  },
+  "Explorer yanıt vermiyor; geçiş yapılmadı.": {
+    "en": "Explorer is not responding; no switch was made.",
+    "zh-CN": "资源管理器无响应；未切换。",
+    "hi": "Explorer प्रतिसाद नहीं दे रहा; बदलाव नहीं हुआ।",
+    "es": "El Explorador no responde; no se realizó el cambio.",
+    "ar": "المستكشف لا يستجيب؛ لم يتم التبديل.",
+    "tr": "Explorer yanıt vermiyor; geçiş yapılmadı."
+  },
+  "Geçiş tamamlanamadı; tekrar deneyin.": {
+    "en": "The switch could not be completed; try again.",
+    "zh-CN": "无法完成切换；请重试。",
+    "hi": "बदलाव पूरा नहीं हो सका; फिर कोशिश करें।",
+    "es": "No se pudo completar el cambio; inténtelo de nuevo.",
+    "ar": "تعذّر إكمال التبديل؛ حاول مجددًا.",
+    "tr": "Geçiş tamamlanamadı; tekrar deneyin."
+  },
+  "Yönetici süreci açılamadı.": {
+    "en": "The administrator process could not be started.",
+    "zh-CN": "无法启动管理员进程。",
+    "hi": "व्यवस्थापक प्रक्रिया शुरू नहीं हो सकी।",
+    "es": "No se pudo iniciar el proceso de administrador.",
+    "ar": "تعذّر بدء عملية المسؤول.",
+    "tr": "Yönetici süreci açılamadı."
+  },
+  "Yönetici moduna geçilemedi: ": {
+    "en": "Could not enter administrator mode: ",
+    "zh-CN": "无法进入管理员模式：",
+    "hi": "व्यवस्थापक मोड शुरू नहीं हो सका: ",
+    "es": "No se pudo activar el modo de administrador: ",
+    "ar": "تعذّر تفعيل وضع المسؤول: ",
+    "tr": "Yönetici moduna geçilemedi: "
+  },
+  "Windows başlangıç ayarı kaydedilemedi; önceki durumu kontrol edin.": {
+    "en": "The Windows startup setting could not be saved; check the previous state.",
+    "zh-CN": "无法保存 Windows 启动设置；请检查原有状态。",
+    "hi": "Windows स्टार्टअप सेटिंग सहेजी नहीं जा सकी; पिछली स्थिति जाँचें।",
+    "es": "No se pudo guardar el inicio con Windows; compruebe el estado anterior.",
+    "ar": "تعذّر حفظ إعداد التشغيل مع Windows؛ تحقق من الحالة السابقة.",
+    "tr": "Windows başlangıç ayarı kaydedilemedi; önceki durumu kontrol edin."
+  },
+  "Geçiş iptal edildi.": {
+    "en": "Switch canceled.",
+    "zh-CN": "切换已取消。",
+    "hi": "बदलाव रद्द कर दिया गया।",
+    "es": "Cambio cancelado.",
+    "ar": "أُلغي التبديل.",
+    "tr": "Geçiş iptal edildi."
+  },
+  "Bu konum bir dosya sistemi klasörü değil.": {
+    "en": "This location is not a file system folder.",
+    "zh-CN": "此位置不是文件系统文件夹。",
+    "hi": "यह स्थान फ़ाइल सिस्टम फ़ोल्डर नहीं है।",
+    "es": "Esta ubicación no es una carpeta del sistema de archivos.",
+    "ar": "هذا الموقع ليس مجلدًا في نظام الملفات.",
+    "tr": "Bu konum bir dosya sistemi klasörü değil."
+  },
+  "Dosya penceresi artık etkin değil.": {
+    "en": "The file dialog is no longer active.",
+    "zh-CN": "文件对话框已不再处于活动状态。",
+    "hi": "फ़ाइल विंडो अब सक्रिय नहीं है।",
+    "es": "El diálogo de archivos ya no está activo.",
+    "ar": "نافذة الملفات لم تعد نشطة.",
+    "tr": "Dosya penceresi artık etkin değil."
+  },
+  "Zaten bu klasördesiniz.": {
+    "en": "You are already in this folder.",
+    "zh-CN": "您已在此文件夹中。",
+    "hi": "आप पहले से इस फ़ोल्डर में हैं।",
+    "es": "Ya está en esta carpeta.",
+    "ar": "أنت في هذا المجلد بالفعل.",
+    "tr": "Zaten bu klasördesiniz."
+  },
+  "Dosya adı doğrulanamadı; geçiş yapılmadı.": {
+    "en": "The file name could not be verified; no switch was made.",
+    "zh-CN": "无法验证文件名；未切换。",
+    "hi": "फ़ाइल नाम सत्यापित नहीं हो सका; बदलाव नहीं हुआ।",
+    "es": "No se pudo verificar el nombre de archivo; no se realizó el cambio.",
+    "ar": "تعذّر التحقق من اسم الملف؛ لم يتم التبديل.",
+    "tr": "Dosya adı doğrulanamadı; geçiş yapılmadı."
+  },
+  "Kısayol tuşlarını bırakıp tekrar deneyin.": {
+    "en": "Release the shortcut keys and try again.",
+    "zh-CN": "请松开快捷键后重试。",
+    "hi": "शॉर्टकट कुंजियाँ छोड़ें और फिर कोशिश करें।",
+    "es": "Suelte las teclas del atajo e inténtelo de nuevo.",
+    "ar": "حرّر مفاتيح الاختصار وحاول مجددًا.",
+    "tr": "Kısayol tuşlarını bırakıp tekrar deneyin."
+  },
+  "Yeni kullanıcı hareketi izlenemedi; geçiş yapılmadı.": {
+    "en": "New user activity could not be monitored; no switch was made.",
+    "zh-CN": "无法监测新的用户操作；未切换。",
+    "hi": "नई उपयोगकर्ता गतिविधि की निगरानी नहीं हो सकी; बदलाव नहीं हुआ।",
+    "es": "No se pudo supervisar la actividad del usuario; no se realizó el cambio.",
+    "ar": "تعذّرت مراقبة نشاط المستخدم الجديد؛ لم يتم التبديل.",
+    "tr": "Yeni kullanıcı hareketi izlenemedi; geçiş yapılmadı."
+  },
+  "Dosya penceresinde yeni bir etkileşim var; geçiş durduruldu.": {
+    "en": "New interaction in the file dialog; switching stopped.",
+    "zh-CN": "文件对话框中有新操作；切换已停止。",
+    "hi": "फ़ाइल विंडो में नई गतिविधि हुई; बदलाव रोक दिया गया।",
+    "es": "Hay una nueva interacción en el diálogo; se detuvo el cambio.",
+    "ar": "حدث تفاعل جديد في نافذة الملفات؛ توقف التبديل.",
+    "tr": "Dosya penceresinde yeni bir etkileşim var; geçiş durduruldu."
+  },
+  "Windows bu pencereye klavye erişimi vermedi.": {
+    "en": "Windows did not allow keyboard access to this window.",
+    "zh-CN": "Windows 不允许向此窗口发送键盘输入。",
+    "hi": "Windows ने इस विंडो में कीबोर्ड पहुँच की अनुमति नहीं दी।",
+    "es": "Windows no permitió el acceso del teclado a esta ventana.",
+    "ar": "لم يسمح Windows بوصول لوحة المفاتيح إلى هذه النافذة.",
+    "tr": "Windows bu pencereye klavye erişimi vermedi."
+  },
+  "Bu pencerenin adres alanına erişilemedi.": {
+    "en": "The address field of this window could not be accessed.",
+    "zh-CN": "无法访问此窗口的地址栏。",
+    "hi": "इस विंडो के पता फ़ील्ड तक पहुँच नहीं मिली।",
+    "es": "No se pudo acceder al campo de dirección de esta ventana.",
+    "ar": "تعذّر الوصول إلى حقل العنوان في هذه النافذة.",
+    "tr": "Bu pencerenin adres alanına erişilemedi."
+  },
+  "Yeni bir kullanıcı hareketi algılandı; geçiş durduruldu.": {
+    "en": "New user activity detected; switching stopped.",
+    "zh-CN": "检测到新的用户操作；切换已停止。",
+    "hi": "नई उपयोगकर्ता गतिविधि मिली; बदलाव रोक दिया गया।",
+    "es": "Se detectó actividad del usuario; se detuvo el cambio.",
+    "ar": "تم اكتشاف نشاط جديد للمستخدم؛ توقف التبديل.",
+    "tr": "Yeni bir kullanıcı hareketi algılandı; geçiş durduruldu."
+  },
+  "Odak değişti; geçiş durduruldu.": {
+    "en": "Focus changed; switching stopped.",
+    "zh-CN": "焦点已更改；切换已停止。",
+    "hi": "फ़ोकस बदल गया; बदलाव रोक दिया गया।",
+    "es": "El foco cambió; se detuvo el cambio.",
+    "ar": "تغيّر التركيز؛ توقف التبديل.",
+    "tr": "Odak değişti; geçiş durduruldu."
+  },
+  "Klasör yolu adres alanına yazılamadı.": {
+    "en": "The folder path could not be entered in the address field.",
+    "zh-CN": "无法在地址栏中输入文件夹路径。",
+    "hi": "पता फ़ील्ड में फ़ोल्डर पथ नहीं लिखा जा सका।",
+    "es": "No se pudo escribir la ruta de carpeta en el campo de dirección.",
+    "ar": "تعذّرت كتابة مسار المجلد في حقل العنوان.",
+    "tr": "Klasör yolu adres alanına yazılamadı."
+  },
+  "Adres alanındaki yol doğrulanamadı.": {
+    "en": "The path in the address field could not be verified.",
+    "zh-CN": "无法验证地址栏中的路径。",
+    "hi": "पता फ़ील्ड का पथ सत्यापित नहीं हो सका।",
+    "es": "No se pudo verificar la ruta en el campo de dirección.",
+    "ar": "تعذّر التحقق من المسار في حقل العنوان.",
+    "tr": "Adres alanındaki yol doğrulanamadı."
+  },
+  "Windows klasör geçişine izin vermedi.": {
+    "en": "Windows did not allow the folder switch.",
+    "zh-CN": "Windows 不允许切换文件夹。",
+    "hi": "Windows ने फ़ोल्डर बदलने की अनुमति नहीं दी।",
+    "es": "Windows no permitió el cambio de carpeta.",
+    "ar": "لم يسمح Windows بتبديل المجلد.",
+    "tr": "Windows klasör geçişine izin vermedi."
+  },
+  "Klasör geçişi doğrulanamadı. Konumu kontrol edin.": {
+    "en": "The folder switch could not be verified. Check the location.",
+    "zh-CN": "无法验证文件夹切换。请检查位置。",
+    "hi": "फ़ोल्डर बदलाव सत्यापित नहीं हो सका। स्थान जाँचें।",
+    "es": "No se pudo verificar el cambio de carpeta. Compruebe la ubicación.",
+    "ar": "تعذّر التحقق من تبديل المجلد. تحقق من الموقع.",
+    "tr": "Klasör geçişi doğrulanamadı. Konumu kontrol edin."
+  },
+  "Dosya adı veya dosya türü değişti; kontrol edin.": {
+    "en": "The file name or file type changed; check it.",
+    "zh-CN": "文件名或文件类型已更改；请检查。",
+    "hi": "फ़ाइल नाम या प्रकार बदल गया; जाँचें।",
+    "es": "El nombre o tipo de archivo cambió; compruébelo.",
+    "ar": "تغيّر اسم الملف أو نوعه؛ تحقق منه.",
+    "tr": "Dosya adı veya dosya türü değişti; kontrol edin."
+  },
+  "Klasöre geçildi; yeni etkileşime müdahale edilmedi.": {
+    "en": "Folder switched; new interaction was left untouched.",
+    "zh-CN": "文件夹已切换；新的操作未受干扰。",
+    "hi": "फ़ोल्डर बदल गया; नई गतिविधि को नहीं बदला गया।",
+    "es": "Carpeta cambiada; no se alteró la nueva interacción.",
+    "ar": "تم تبديل المجلد دون التدخل في التفاعل الجديد.",
+    "tr": "Klasöre geçildi; yeni etkileşime müdahale edilmedi."
+  },
+  "Klasöre geçildi.": {
+    "en": "Folder switched.",
+    "zh-CN": "文件夹已切换。",
+    "hi": "फ़ोल्डर बदल गया।",
+    "es": "Carpeta cambiada.",
+    "ar": "تم تبديل المجلد.",
+    "tr": "Klasöre geçildi."
+  },
+  "Yönetici penceresinde Windows güvenlik kısıtlaması olabilir; geçiş tamamlanmadı. Yönetici yetkisi istenmedi.": {
+    "en": "Windows security may restrict elevated windows; the switch was not completed. Elevation was not requested.",
+    "zh-CN": "Windows 安全限制可能阻止访问管理员窗口；未完成切换。未请求提升权限。",
+    "hi": "Windows सुरक्षा व्यवस्थापक विंडो को सीमित कर सकती है; बदलाव पूरा नहीं हुआ। व्यवस्थापक अनुमति नहीं माँगी गई।",
+    "es": "Windows puede restringir ventanas elevadas; no se completó el cambio. No se solicitó elevación.",
+    "ar": "قد تقيّد حماية Windows نوافذ المسؤول؛ لم يكتمل التبديل. لم تُطلب صلاحيات مرتفعة.",
+    "tr": "Yönetici penceresinde Windows güvenlik kısıtlaması olabilir; geçiş tamamlanmadı. Yönetici yetkisi istenmedi."
+  },
+  "Explorer okuyucusu kullanılamıyor; programı yeniden başlatın.": {
+    "en": "Explorer reader unavailable; restart the program.",
+    "zh-CN": "资源管理器读取器不可用；请重新启动程序。",
+    "hi": "Explorer रीडर उपलब्ध नहीं है; प्रोग्राम पुनः शुरू करें।",
+    "es": "Lector del Explorador no disponible; reinicie el programa.",
+    "ar": "قارئ المستكشف غير متاح؛ أعد تشغيل البرنامج.",
+    "tr": "Explorer okuyucusu kullanılamıyor; programı yeniden başlatın."
+  },
+  "Explorer yanıt vermiyor.": {
+    "en": "Explorer is not responding.",
+    "zh-CN": "资源管理器无响应。",
+    "hi": "Explorer प्रतिसाद नहीं दे रहा।",
+    "es": "El Explorador no responde.",
+    "ar": "المستكشف لا يستجيب.",
+    "tr": "Explorer yanıt vermiyor."
+  },
+  "Explorer okuyucusuna erişilemiyor.": {
+    "en": "The Explorer reader could not be accessed.",
+    "zh-CN": "无法访问资源管理器读取器。",
+    "hi": "Explorer रीडर तक पहुँच नहीं मिली।",
+    "es": "No se pudo acceder al lector del Explorador.",
+    "ar": "تعذّر الوصول إلى قارئ المستكشف.",
+    "tr": "Explorer okuyucusuna erişilemiyor."
+  },
+  "Windows Shell kullanılamıyor.": {
+    "en": "Windows Shell is unavailable.",
+    "zh-CN": "Windows Shell 不可用。",
+    "hi": "Windows Shell उपलब्ध नहीं है।",
+    "es": "Windows Shell no está disponible.",
+    "ar": "Windows Shell غير متاح.",
+    "tr": "Windows Shell kullanılamıyor."
+  },
+  "Explorer pencereleri okunamadı.": {
+    "en": "Explorer windows could not be read.",
+    "zh-CN": "无法读取资源管理器窗口。",
+    "hi": "Explorer विंडो पढ़ी नहीं जा सकीं।",
+    "es": "No se pudieron leer las ventanas del Explorador.",
+    "ar": "تعذّرت قراءة نوافذ المستكشف.",
+    "tr": "Explorer pencereleri okunamadı."
+  },
+  "Explorer pencere listesi güvenilir biçimde okunamadı.": {
+    "en": "The Explorer window list could not be read reliably.",
+    "zh-CN": "无法可靠地读取资源管理器窗口列表。",
+    "hi": "Explorer विंडो सूची विश्वसनीय रूप से नहीं पढ़ी जा सकी।",
+    "es": "No se pudo leer la lista de ventanas del Explorador de forma fiable.",
+    "ar": "تعذّرت قراءة قائمة نوافذ المستكشف بشكل موثوق.",
+    "tr": "Explorer pencere listesi güvenilir biçimde okunamadı."
+  },
+  "Explorer taraması zaman aşımına uğradı.": {
+    "en": "Explorer scan timed out.",
+    "zh-CN": "资源管理器扫描超时。",
+    "hi": "Explorer स्कैन का समय समाप्त हो गया।",
+    "es": "Se agotó el tiempo de exploración.",
+    "ar": "انتهت مهلة فحص المستكشف.",
+    "tr": "Explorer taraması zaman aşımına uğradı."
+  },
+  "Explorer klasörlerine erişilemedi.": {
+    "en": "Explorer folders could not be accessed.",
+    "zh-CN": "无法访问资源管理器文件夹。",
+    "hi": "Explorer फ़ोल्डरों तक पहुँच नहीं मिली।",
+    "es": "No se pudo acceder a las carpetas del Explorador.",
+    "ar": "تعذّر الوصول إلى مجلدات المستكشف.",
+    "tr": "Explorer klasörlerine erişilemedi."
+  },
+  "Klasöre git": {
+    "en": "Go to folder",
+    "zh-CN": "转到文件夹",
+    "hi": "फ़ोल्डर में जाएँ",
+    "es": "Ir a la carpeta",
+    "ar": "الانتقال إلى المجلد",
+    "tr": "Klasöre git"
+  },
+  "Açık, favori ve son klasörler": {
+    "en": "Open, favorite and recent folders",
+    "zh-CN": "打开的、收藏的和最近的文件夹",
+    "hi": "खुले, पसंदीदा और हाल के फ़ोल्डर",
+    "es": "Carpetas abiertas, favoritas y recientes",
+    "ar": "المجلدات المفتوحة والمفضلة والأخيرة",
+    "tr": "Açık, favori ve son klasörler"
+  },
+  "Klasörleri göster": {
+    "en": "Show folders",
+    "zh-CN": "显示文件夹",
+    "hi": "फ़ोल्डर दिखाएँ",
+    "es": "Mostrar carpetas",
+    "ar": "عرض المجلدات",
+    "tr": "Klasörleri göster"
+  },
+  "Kayıtlı klasörler": {
+    "en": "Saved folders",
+    "zh-CN": "保存的文件夹",
+    "hi": "सहेजे गए फ़ोल्डर",
+    "es": "Carpetas guardadas",
+    "ar": "المجلدات المحفوظة",
+    "tr": "Kayıtlı klasörler"
+  },
+  "Klasör bulunamadı": {
+    "en": "No folder found",
+    "zh-CN": "未找到文件夹",
+    "hi": "कोई फ़ोल्डर नहीं मिला",
+    "es": "No se encontró ninguna carpeta",
+    "ar": "لم يُعثر على مجلد",
+    "tr": "Klasör bulunamadı"
+  },
+  "Menüden bir favori veya son klasör seçin": {
+    "en": "Choose a favorite or recent folder from the menu",
+    "zh-CN": "从菜单选择收藏的或最近的文件夹",
+    "hi": "मेनू से पसंदीदा या हाल का फ़ोल्डर चुनें",
+    "es": "Elija una carpeta favorita o reciente del menú",
+    "ar": "اختر مجلدًا مفضلًا أو أخيرًا من القائمة",
+    "tr": "Menüden bir favori veya son klasör seçin"
+  },
+  "Dosya Gezgini’nde bir klasör açın": {
+    "en": "Open a folder in File Explorer",
+    "zh-CN": "在文件资源管理器中打开文件夹",
+    "hi": "फ़ाइल Explorer में फ़ोल्डर खोलें",
+    "es": "Abra una carpeta en el Explorador",
+    "ar": "افتح مجلدًا في مستكشف الملفات",
+    "tr": "Dosya Gezgini’nde bir klasör açın"
+  },
+  " kullanılamıyor · Geçmek için tıklayın": {
+    "en": " unavailable · Click to switch",
+    "zh-CN": " 不可用 · 点击切换",
+    "hi": " उपलब्ध नहीं · बदलने के लिए क्लिक करें",
+    "es": " no disponible · Pulse para cambiar",
+    "ar": " غير متاح · انقر للتبديل",
+    "tr": " kullanılamıyor · Geçmek için tıklayın"
+  },
+  "Menü": {
+    "en": "Menu",
+    "zh-CN": "菜单",
+    "hi": "मेनू",
+    "es": "Menú",
+    "ar": "القائمة",
+    "tr": "Menü"
+  },
+  "Açık klasörler, favoriler ve son klasörler": {
+    "en": "Open folders, favorites and recent folders",
+    "zh-CN": "打开的文件夹、收藏夹和最近的文件夹",
+    "hi": "खुले फ़ोल्डर, पसंदीदा और हाल के फ़ोल्डर",
+    "es": "Carpetas abiertas, favoritas y recientes",
+    "ar": "المجلدات المفتوحة والمفضلة والأخيرة",
+    "tr": "Açık klasörler, favoriler ve son klasörler"
+  },
+  "Tıkla": {
+    "en": "Click",
+    "zh-CN": "点击",
+    "hi": "क्लिक करें",
+    "es": "Pulsar",
+    "ar": "انقر",
+    "tr": "Tıkla"
+  },
+  "Klasörler": {
+    "en": "Folders",
+    "zh-CN": "文件夹",
+    "hi": "फ़ोल्डर",
+    "es": "Carpetas",
+    "ar": "المجلدات",
+    "tr": "Klasörler"
+  },
+  "Açık klasörler": {
+    "en": "Open folders",
+    "zh-CN": "打开的文件夹",
+    "hi": "खुले फ़ोल्डर",
+    "es": "Carpetas abiertas",
+    "ar": "المجلدات المفتوحة",
+    "tr": "Açık klasörler"
+  },
+  "Favoriler": {
+    "en": "Favorites",
+    "zh-CN": "收藏夹",
+    "hi": "पसंदीदा",
+    "es": "Favoritas",
+    "ar": "المفضلة",
+    "tr": "Favoriler"
+  },
+  "Son klasörler": {
+    "en": "Recent folders",
+    "zh-CN": "最近的文件夹",
+    "hi": "हाल के फ़ोल्डर",
+    "es": "Carpetas recientes",
+    "ar": "المجلدات الأخيرة",
+    "tr": "Son klasörler"
+  },
+  "Açık Explorer klasörü yok": {
+    "en": "No open Explorer folder",
+    "zh-CN": "没有打开的资源管理器文件夹",
+    "hi": "कोई खुला Explorer फ़ोल्डर नहीं",
+    "es": "No hay carpetas abiertas del Explorador",
+    "ar": "لا يوجد مجلد مفتوح في المستكشف",
+    "tr": "Açık Explorer klasörü yok"
+  },
+  "Henüz favoriniz yok": {
+    "en": "No favorites yet",
+    "zh-CN": "暂无收藏夹",
+    "hi": "अभी कोई पसंदीदा नहीं",
+    "es": "Todavía no hay favoritas",
+    "ar": "لا توجد مفضلات بعد",
+    "tr": "Henüz favoriniz yok"
+  },
+  "Henüz bir geçiş yapılmadı": {
+    "en": "No switches yet",
+    "zh-CN": "尚未切换过文件夹",
+    "hi": "अभी कोई बदलाव नहीं हुआ",
+    "es": "Todavía no se han cambiado carpetas",
+    "ar": "لم يتم أي تبديل بعد",
+    "tr": "Henüz bir geçiş yapılmadı"
+  },
+  "Son klasörler kapalı": {
+    "en": "Recent folders disabled",
+    "zh-CN": "最近的文件夹已关闭",
+    "hi": "हाल के फ़ोल्डर बंद हैं",
+    "es": "Carpetas recientes desactivadas",
+    "ar": "المجلدات الأخيرة معطّلة",
+    "tr": "Son klasörler kapalı"
+  },
+  "Favorileriniz Explorer kapalıyken de kullanılabilir.": {
+    "en": "Favorites remain available when Explorer is closed.",
+    "zh-CN": "关闭资源管理器后仍可使用收藏夹。",
+    "hi": "Explorer बंद होने पर भी पसंदीदा उपलब्ध रहते हैं।",
+    "es": "Las favoritas siguen disponibles con el Explorador cerrado.",
+    "ar": "تبقى المفضلات متاحة عند إغلاق المستكشف.",
+    "tr": "Favorileriniz Explorer kapalıyken de kullanılabilir."
+  },
+  "Bir Explorer klasörünü favorilerinize ekleyin.": {
+    "en": "Add an Explorer folder to your favorites.",
+    "zh-CN": "将资源管理器文件夹添加到收藏夹。",
+    "hi": "Explorer फ़ोल्डर को पसंदीदा में जोड़ें।",
+    "es": "Añada una carpeta del Explorador a favoritas.",
+    "ar": "أضف مجلدًا من المستكشف إلى المفضلة.",
+    "tr": "Bir Explorer klasörünü favorilerinize ekleyin."
+  },
+  "Geçmiş tercihini Ayarlar'dan değiştirebilirsiniz.": {
+    "en": "Change your history preference in Settings.",
+    "zh-CN": "在设置中更改历史记录选项。",
+    "hi": "सेटिंग्स में इतिहास की प्राथमिकता बदलें।",
+    "es": "Cambie la preferencia del historial en Configuración.",
+    "ar": "غيّر تفضيل السجل من الإعدادات.",
+    "tr": "Geçmiş tercihini Ayarlar'dan değiştirebilirsiniz."
+  },
+  "Bu Explorer klasörünü favoriden kaldır": {
+    "en": "Remove this Explorer folder from favorites",
+    "zh-CN": "从收藏夹移除此资源管理器文件夹",
+    "hi": "इस Explorer फ़ोल्डर को पसंदीदा से हटाएँ",
+    "es": "Quitar esta carpeta del Explorador de favoritas",
+    "ar": "إزالة مجلد المستكشف هذا من المفضلة",
+    "tr": "Bu Explorer klasörünü favoriden kaldır"
+  },
+  "Bu Explorer klasörünü favoriye ekle": {
+    "en": "Add this Explorer folder to favorites",
+    "zh-CN": "将此资源管理器文件夹添加到收藏夹",
+    "hi": "इस Explorer फ़ोल्डर को पसंदीदा में जोड़ें",
+    "es": "Añadir esta carpeta del Explorador a favoritas",
+    "ar": "إضافة مجلد المستكشف هذا إلى المفضلة",
+    "tr": "Bu Explorer klasörünü favoriye ekle"
+  },
+  "Favoriden kaldır": {
+    "en": "Remove from favorites",
+    "zh-CN": "从收藏夹移除",
+    "hi": "पसंदीदा से हटाएँ",
+    "es": "Quitar de favoritas",
+    "ar": "إزالة من المفضلة",
+    "tr": "Favoriden kaldır"
+  },
+  "Klasör ayarları okunamadı veya sürümü desteklenmiyor; mevcut dosya korunuyor.": {
+    "en": "Folder settings could not be read or their version is unsupported; the existing file is preserved.",
+    "zh-CN": "无法读取文件夹设置或版本不受支持；原文件已保留。",
+    "hi": "फ़ोल्डर सेटिंग्स पढ़ी नहीं जा सकीं या संस्करण समर्थित नहीं है; मौजूदा फ़ाइल सुरक्षित है।",
+    "es": "No se pudieron leer los ajustes de carpetas o su versión no es compatible; se conserva el archivo.",
+    "ar": "تعذّرت قراءة إعدادات المجلدات أو أن إصدارها غير مدعوم؛ تم الحفاظ على الملف الحالي.",
+    "tr": "Klasör ayarları okunamadı veya sürümü desteklenmiyor; mevcut dosya korunuyor."
+  },
+  "Bu konum bir klasör yolu değil.": {
+    "en": "This location is not a folder path.",
+    "zh-CN": "此位置不是文件夹路径。",
+    "hi": "यह स्थान फ़ोल्डर पथ नहीं है।",
+    "es": "Esta ubicación no es una ruta de carpeta.",
+    "ar": "هذا الموقع ليس مسار مجلد.",
+    "tr": "Bu konum bir klasör yolu değil."
+  },
+  "Klasör ayarları kayıt sırasında dışarıdan değişti; dışarıdan yazılan sürüm geri yüklendi. Yeniden başlatıp kontrol edin. Çakışma kopyaları varsa aynı profil dizininde korunur.": {
+    "en": "Settings changed externally during saving; the external version was restored. Restart and check. Any conflict copies remain in the same profile folder.",
+    "zh-CN": "设置在保存时被外部修改；外部版本已恢复。请重新启动并检查。冲突副本保留在同一配置文件夹中。",
+    "hi": "सहेजते समय सेटिंग्स बाहर से बदली गईं; बाहरी संस्करण बहाल किया गया। पुनः शुरू करके जाँचें। टकराव की प्रतियाँ उसी प्रोफ़ाइल फ़ोल्डर में सुरक्षित हैं।",
+    "es": "Los ajustes cambiaron externamente al guardar; se restauró la versión externa. Reinicie y compruebe. Las copias de conflicto se conservan en la misma carpeta de perfil.",
+    "ar": "تغيّرت الإعدادات خارجيًا أثناء الحفظ؛ تمت استعادة النسخة الخارجية. أعد التشغيل وتحقق. تُحفظ نسخ التعارض في مجلد الملف الشخصي نفسه.",
+    "tr": "Klasör ayarları kayıt sırasında dışarıdan değişti; dışarıdan yazılan sürüm geri yüklendi. Yeniden başlatıp kontrol edin. Çakışma kopyaları varsa aynı profil dizininde korunur."
+  },
+  "Klasör ayarları kaydedilemedi veya dosya dışarıdan değişti; önceki durum korunuyor.": {
+    "en": "Settings could not be saved or changed externally; the previous state is preserved.",
+    "zh-CN": "无法保存设置或设置已被外部修改；原有状态已保留。",
+    "hi": "सेटिंग्स सहेजी नहीं जा सकीं या बाहर से बदली गईं; पिछली स्थिति सुरक्षित है।",
+    "es": "No se pudieron guardar los ajustes o cambiaron externamente; se conserva el estado anterior.",
+    "ar": "تعذّر حفظ الإعدادات أو تغيّرت خارجيًا؛ تم الحفاظ على الحالة السابقة.",
+    "tr": "Klasör ayarları kaydedilemedi veya dosya dışarıdan değişti; önceki durum korunuyor."
+  },
+  "Geçersiz seçenek. Profil için --profile-dir ve tam bir klasör yolu kullanın.": {
+    "en": "Invalid option. Use --profile-dir followed by an absolute folder path.",
+    "zh-CN": "选项无效。请在 --profile-dir 后指定完整文件夹路径。",
+    "hi": "अमान्य विकल्प। --profile-dir के बाद पूरा फ़ोल्डर पथ दें।",
+    "es": "Opción no válida. Use --profile-dir seguido de una ruta absoluta.",
+    "ar": "خيار غير صالح. استخدم --profile-dir متبوعًا بمسار مجلد كامل.",
+    "tr": "Geçersiz seçenek. Profil için --profile-dir ve tam bir klasör yolu kullanın."
+  },
+  "Seçilen profile yazılamıyor; başka bir profile geçilmedi.": {
+    "en": "Cannot write to the selected profile; no other profile was used.",
+    "zh-CN": "无法写入所选配置文件夹；未改用其他配置。",
+    "hi": "चुनी गई प्रोफ़ाइल में लिखा नहीं जा सकता; दूसरी प्रोफ़ाइल का उपयोग नहीं हुआ।",
+    "es": "No se puede escribir en el perfil elegido; no se usó otro perfil.",
+    "ar": "تعذّرت الكتابة إلى الملف الشخصي المختار؛ لم يُستخدم ملف آخر.",
+    "tr": "Seçilen profile yazılamıyor; başka bir profile geçilmedi."
+  },
+  "Klasör Geçiş zaten çalışıyor. Bildirim alanındaki klasör simgesini kullanabilirsiniz.": {
+    "en": "Klasör Geçiş is already running. Use the folder icon in the notification area.",
+    "zh-CN": "Klasör Geçiş 已在运行。请使用通知区域的文件夹图标。",
+    "hi": "Klasör Geçiş पहले से चल रहा है। सूचना क्षेत्र के फ़ोल्डर आइकन का उपयोग करें।",
+    "es": "Klasör Geçiş ya está ejecutándose. Use el icono de carpeta del área de notificación.",
+    "ar": "Klasör Geçiş يعمل بالفعل. استخدم رمز المجلد في منطقة الإعلام.",
+    "tr": "Klasör Geçiş zaten çalışıyor. Bildirim alanındaki klasör simgesini kullanabilirsiniz."
+  },
+  "Klasör Geçiş — Ayarlar": {
+    "en": "Klasör Geçiş — Settings",
+    "zh-CN": "Klasör Geçiş — 设置",
+    "hi": "Klasör Geçiş — सेटिंग्स",
+    "es": "Klasör Geçiş — Configuración",
+    "ar": "Klasör Geçiş — الإعدادات",
+    "tr": "Klasör Geçiş — Ayarlar"
+  },
+  "TERCİHLER": {
+    "en": "PREFERENCES",
+    "zh-CN": "偏好设置",
+    "hi": "प्राथमिकताएँ",
+    "es": "PREFERENCIAS",
+    "ar": "التفضيلات",
+    "tr": "TERCİHLER"
+  },
+  "Genel": {
+    "en": "General",
+    "zh-CN": "常规",
+    "hi": "सामान्य",
+    "es": "General",
+    "ar": "عام",
+    "tr": "Genel"
+  },
+  "Kısayol": {
+    "en": "Shortcut",
+    "zh-CN": "快捷键",
+    "hi": "शॉर्टकट",
+    "es": "Atajo",
+    "ar": "الاختصار",
+    "tr": "Kısayol"
+  },
+  "Geçmiş": {
+    "en": "History",
+    "zh-CN": "历史记录",
+    "hi": "इतिहास",
+    "es": "Historial",
+    "ar": "السجل",
+    "tr": "Geçmiş"
+  },
+  "Klasöre geçmek için size uygun bir tuş birleşimi seçin.": {
+    "en": "Choose a key combination for switching folders.",
+    "zh-CN": "选择用于切换文件夹的组合键。",
+    "hi": "फ़ोल्डर बदलने के लिए कुंजी संयोजन चुनें।",
+    "es": "Elija una combinación de teclas para cambiar de carpeta.",
+    "ar": "اختر مجموعة مفاتيح لتبديل المجلدات.",
+    "tr": "Klasöre geçmek için size uygun bir tuş birleşimi seçin."
+  },
+  "Sık kullandığınız klasörleri her zaman elinizin altında tutun.": {
+    "en": "Keep frequently used folders within easy reach.",
+    "zh-CN": "随时访问常用文件夹。",
+    "hi": "अक्सर उपयोग होने वाले फ़ोल्डर आसानी से खोलें।",
+    "es": "Tenga a mano las carpetas que usa con frecuencia.",
+    "ar": "احتفظ بمجلداتك المتكررة في متناول يدك.",
+    "tr": "Sık kullandığınız klasörleri her zaman elinizin altında tutun."
+  },
+  "Klasör geçmişinizi tutup tutmamak sizin seçiminiz.": {
+    "en": "You decide whether to keep folder history.",
+    "zh-CN": "由您决定是否保存文件夹历史记录。",
+    "hi": "फ़ोल्डर इतिहास रखना है या नहीं, आप चुनें।",
+    "es": "Usted decide si desea guardar el historial de carpetas.",
+    "ar": "أنت تختار ما إذا كنت تريد الاحتفاظ بسجل المجلدات.",
+    "tr": "Klasör geçmişinizi tutup tutmamak sizin seçiminiz."
+  },
+  "Dosya pencerelerindeki davranışı ayarlayın.": {
+    "en": "Adjust behavior in file dialogs.",
+    "zh-CN": "调整文件对话框中的行为。",
+    "hi": "फ़ाइल विंडो में व्यवहार बदलें।",
+    "es": "Ajuste el comportamiento en los diálogos de archivos.",
+    "ar": "اضبط السلوك في نوافذ الملفات.",
+    "tr": "Dosya pencerelerindeki davranışı ayarlayın."
+  },
+  "Klasör geçişi": {
+    "en": "Folder switching",
+    "zh-CN": "文件夹切换",
+    "hi": "फ़ोल्डर बदलाव",
+    "es": "Cambio de carpeta",
+    "ar": "تبديل المجلدات",
+    "tr": "Klasör geçişi"
+  },
+  "Geçiş satırını göster": {
+    "en": "Show the folder bar",
+    "zh-CN": "显示文件夹栏",
+    "hi": "फ़ोल्डर पट्टी दिखाएँ",
+    "es": "Mostrar barra de carpetas",
+    "ar": "إظهار شريط المجلد",
+    "tr": "Geçiş satırını göster"
+  },
+  "Aç ve Kaydet pencerelerinde klasörlerinize hızlıca ulaşın.": {
+    "en": "Quickly reach your folders in Open and Save dialogs.",
+    "zh-CN": "在打开和保存对话框中快速访问文件夹。",
+    "hi": "खोलें और सहेजें विंडो में फ़ोल्डर जल्दी खोलें।",
+    "es": "Acceda rápidamente a sus carpetas en Abrir y Guardar.",
+    "ar": "انتقل بسرعة إلى مجلداتك في نوافذ الفتح والحفظ.",
+    "tr": "Aç ve Kaydet pencerelerinde klasörlerinize hızlıca ulaşın."
+  },
+  "Explorer’dan dönünce otomatik geç": {
+    "en": "Switch automatically when returning from Explorer",
+    "zh-CN": "从资源管理器返回时自动切换",
+    "hi": "Explorer से लौटने पर अपने आप बदलें",
+    "es": "Cambiar al volver del Explorador",
+    "ar": "التبديل تلقائيًا عند العودة من المستكشف",
+    "tr": "Explorer’dan dönünce otomatik geç"
+  },
+  "Aynı dosya penceresine döndüğünüzde son ziyaret ettiğiniz Explorer klasörüne geçin.": {
+    "en": "Return to the same file dialog to switch to the last Explorer folder you visited.",
+    "zh-CN": "返回同一文件对话框时，切换到上次访问的资源管理器文件夹。",
+    "hi": "उसी फ़ाइल विंडो में लौटने पर Explorer के अंतिम देखे गए फ़ोल्डर में जाएँ।",
+    "es": "Al volver al mismo diálogo, cambie a la última carpeta visitada en el Explorador.",
+    "ar": "عند العودة إلى نافذة الملفات نفسها، انتقل إلى آخر مجلد زرته في المستكشف.",
+    "tr": "Aynı dosya penceresine döndüğünüzde son ziyaret ettiğiniz Explorer klasörüne geçin."
+  },
+  "Klavye": {
+    "en": "Keyboard",
+    "zh-CN": "键盘",
+    "hi": "कीबोर्ड",
+    "es": "Teclado",
+    "ar": "لوحة المفاتيح",
+    "tr": "Klavye"
+  },
+  "Başlangıç": {
+    "en": "Startup",
+    "zh-CN": "启动",
+    "hi": "स्टार्टअप",
+    "es": "Inicio",
+    "ar": "بدء التشغيل",
+    "tr": "Başlangıç"
+  },
+  "Oturum açtığınızda bildirim alanında hazır olsun.": {
+    "en": "Be ready in the notification area when you sign in.",
+    "zh-CN": "登录时在通知区域待命。",
+    "hi": "साइन इन करने पर सूचना क्षेत्र में तैयार रहें।",
+    "es": "Estar listo en el área de notificación al iniciar sesión.",
+    "ar": "كن جاهزًا في منطقة الإعلام عند تسجيل الدخول.",
+    "tr": "Oturum açtığınızda bildirim alanında hazır olsun."
+  },
+  "Geçerli kısayol": {
+    "en": "Current shortcut",
+    "zh-CN": "当前快捷键",
+    "hi": "वर्तमान शॉर्टकट",
+    "es": "Atajo actual",
+    "ar": "الاختصار الحالي",
+    "tr": "Geçerli kısayol"
+  },
+  "Kısayolu değiştir": {
+    "en": "Change shortcut",
+    "zh-CN": "更改快捷键",
+    "hi": "शॉर्टकट बदलें",
+    "es": "Cambiar atajo",
+    "ar": "تغيير الاختصار",
+    "tr": "Kısayolu değiştir"
+  },
+  "Varsayılana dön": {
+    "en": "Restore default",
+    "zh-CN": "恢复默认值",
+    "hi": "डिफ़ॉल्ट बहाल करें",
+    "es": "Restablecer",
+    "ar": "استعادة الافتراضي",
+    "tr": "Varsayılana dön"
+  },
+  "Başka bir uygulamanın kullandığı kısayol seçilirse önceki ayarınız korunur.": {
+    "en": "If another application uses the shortcut, your previous setting is preserved.",
+    "zh-CN": "如果快捷键被其他应用占用，将保留原有设置。",
+    "hi": "दूसरे ऐप में शॉर्टकट उपयोग हो रहा हो तो पिछली सेटिंग सुरक्षित रहती है।",
+    "es": "Si otra aplicación usa el atajo, se conserva el ajuste anterior.",
+    "ar": "إذا كان تطبيق آخر يستخدم الاختصار، فسيُحفظ إعدادك السابق.",
+    "tr": "Başka bir uygulamanın kullandığı kısayol seçilirse önceki ayarınız korunur."
+  },
+  "Fareyle de kullanabilirsiniz": {
+    "en": "You can also use the mouse",
+    "zh-CN": "也可使用鼠标",
+    "hi": "माउस का भी उपयोग कर सकते हैं",
+    "es": "También puede usar el ratón",
+    "ar": "يمكنك استخدام الفأرة أيضًا",
+    "tr": "Fareyle de kullanabilirsiniz"
+  },
+  "Kısayoldan bağımsız olarak geçiş satırına veya menüdeki bir klasöre tıklayabilirsiniz.": {
+    "en": "Click the folder bar or a folder in its menu, independently of the shortcut.",
+    "zh-CN": "除了快捷键，还可点击文件夹栏或菜单中的文件夹。",
+    "hi": "शॉर्टकट के अलावा फ़ोल्डर पट्टी या मेनू के फ़ोल्डर पर क्लिक कर सकते हैं।",
+    "es": "Puede pulsar la barra o una carpeta del menú sin usar el atajo.",
+    "ar": "يمكنك النقر على شريط المجلد أو على مجلد في قائمته دون استخدام الاختصار.",
+    "tr": "Kısayoldan bağımsız olarak geçiş satırına veya menüdeki bir klasöre tıklayabilirsiniz."
+  },
+  "Explorer klasörünü ekle": {
+    "en": "Add Explorer folder",
+    "zh-CN": "添加资源管理器文件夹",
+    "hi": "Explorer फ़ोल्डर जोड़ें",
+    "es": "Añadir carpeta del Explorador",
+    "ar": "إضافة مجلد المستكشف",
+    "tr": "Explorer klasörünü ekle"
+  },
+  "Explorer açık olmasa da favori klasörlerinize menüden geçebilirsiniz.": {
+    "en": "Reach your favorites from the menu even when Explorer is closed.",
+    "zh-CN": "关闭资源管理器后仍可通过菜单访问收藏夹。",
+    "hi": "Explorer बंद होने पर भी मेनू से पसंदीदा खोलें।",
+    "es": "Acceda a favoritas desde el menú incluso con el Explorador cerrado.",
+    "ar": "افتح المفضلات من القائمة حتى عند إغلاق المستكشف.",
+    "tr": "Explorer açık olmasa da favori klasörlerinize menüden geçebilirsiniz."
+  },
+  "Yalnız başarılı geçişlerin klasörü ve ilgili uygulama kaydedilir. En fazla 20 kayıt tutulur.": {
+    "en": "Only folders from successful switches and their application are saved. Up to 20 entries are kept.",
+    "zh-CN": "仅保存成功切换的文件夹及相关应用，最多保留 20 条记录。",
+    "hi": "केवल सफल बदलावों के फ़ोल्डर और संबंधित ऐप सहेजे जाते हैं। अधिकतम 20 रिकॉर्ड रखे जाते हैं।",
+    "es": "Solo se guardan las carpetas de cambios correctos y su aplicación. Se conservan hasta 20 registros.",
+    "ar": "تُحفظ فقط مجلدات التبديلات الناجحة والتطبيق المرتبط بها، بحد أقصى 20 سجلًا.",
+    "tr": "Yalnız başarılı geçişlerin klasörü ve ilgili uygulama kaydedilir. En fazla 20 kayıt tutulur."
+  },
+  "Dosya adları ve yazdığınız metinler geçmişe eklenmez. Bu seçenek başlangıçta kapalıdır.": {
+    "en": "File names and typed text are not added to history. This option is off by default.",
+    "zh-CN": "历史记录不包含文件名和输入的文字。此选项默认关闭。",
+    "hi": "फ़ाइल नाम और टाइप किया गया पाठ इतिहास में नहीं जोड़े जाते। यह विकल्प डिफ़ॉल्ट रूप से बंद है।",
+    "es": "Los nombres de archivo y el texto escrito no se añaden al historial. La opción está desactivada por defecto.",
+    "ar": "لا تُضاف أسماء الملفات والنصوص المكتوبة إلى السجل. هذا الخيار معطّل افتراضيًا.",
+    "tr": "Dosya adları ve yazdığınız metinler geçmişe eklenmez. Bu seçenek başlangıçta kapalıdır."
+  },
+  "Geçmişi kapatmak yeni kaydı durdurur. Önceki kayıtlar yalnız siz temizlerseniz silinir.": {
+    "en": "Disabling history stops new entries. Existing entries remain until you clear them.",
+    "zh-CN": "关闭历史记录后不再新增记录，已有记录仅在您清除后删除。",
+    "hi": "इतिहास बंद करने पर नए रिकॉर्ड रुक जाते हैं। पुराने रिकॉर्ड आपके साफ़ करने तक रहते हैं।",
+    "es": "Desactivar el historial detiene los nuevos registros. Los anteriores permanecen hasta que los borre.",
+    "ar": "يوقف تعطيل السجل الإدخالات الجديدة. تبقى الإدخالات السابقة حتى تمسحها.",
+    "tr": "Geçmişi kapatmak yeni kaydı durdurur. Önceki kayıtlar yalnız siz temizlerseniz silinir."
+  },
+  "Klasöre geçiş kısayolu": {
+    "en": "Folder switching shortcut",
+    "zh-CN": "文件夹切换快捷键",
+    "hi": "फ़ोल्डर बदलने का शॉर्टकट",
+    "es": "Atajo para cambiar de carpeta",
+    "ar": "اختصار تبديل المجلد",
+    "tr": "Klasöre geçiş kısayolu"
+  },
+  "Duraklatıldı": {
+    "en": "Paused",
+    "zh-CN": "已暂停",
+    "hi": "रोका गया",
+    "es": "En pausa",
+    "ar": "متوقف مؤقتًا",
+    "tr": "Duraklatıldı"
+  },
+  "Kaydedilmiş klasör yok.": {
+    "en": "No saved folder history.",
+    "zh-CN": "没有保存的文件夹历史记录。",
+    "hi": "कोई फ़ोल्डर इतिहास सहेजा नहीं गया।",
+    "es": "No hay historial de carpetas guardado.",
+    "ar": "لا يوجد سجل مجلدات محفوظ.",
+    "tr": "Kaydedilmiş klasör yok."
+  },
+  " klasör kaydı var.": {
+    "en": " folder entries saved.",
+    "zh-CN": " 条文件夹记录。",
+    "hi": " फ़ोल्डर रिकॉर्ड सहेजे गए।",
+    "es": " registros de carpetas guardados.",
+    "ar": " سجلات مجلدات محفوظة.",
+    "tr": " klasör kaydı var."
+  },
+  "Açık bir Explorer klasörü bulunamadı.": {
+    "en": "No open Explorer folder was found.",
+    "zh-CN": "未找到打开的资源管理器文件夹。",
+    "hi": "कोई खुला Explorer फ़ोल्डर नहीं मिला।",
+    "es": "No se encontró ninguna carpeta abierta del Explorador.",
+    "ar": "لم يُعثر على مجلد مفتوح في المستكشف.",
+    "tr": "Açık bir Explorer klasörü bulunamadı."
+  },
+  "Kaldır": {
+    "en": "Remove",
+    "zh-CN": "移除",
+    "hi": "हटाएँ",
+    "es": "Quitar",
+    "ar": "إزالة",
+    "tr": "Kaldır"
+  },
+  " klasörünü favoriden kaldır": {
+    "en": " — remove from favorites",
+    "zh-CN": " — 从收藏夹移除",
+    "hi": " — पसंदीदा से हटाएँ",
+    "es": " — quitar de favoritas",
+    "ar": " — إزالة من المفضلة",
+    "tr": " klasörünü favoriden kaldır"
+  },
+  "Henüz favoriniz yok. Explorer'da bir klasör açıp ekleyebilirsiniz.": {
+    "en": "No favorites yet. Open a folder in Explorer to add it.",
+    "zh-CN": "暂无收藏夹。在资源管理器中打开文件夹即可添加。",
+    "hi": "अभी कोई पसंदीदा नहीं। जोड़ने के लिए Explorer में फ़ोल्डर खोलें।",
+    "es": "Todavía no hay favoritas. Abra una carpeta en el Explorador para añadirla.",
+    "ar": "لا توجد مفضلات بعد. افتح مجلدًا في المستكشف لإضافته.",
+    "tr": "Henüz favoriniz yok. Explorer'da bir klasör açıp ekleyebilirsiniz."
+  },
+  "Kısayol ayarı": {
+    "en": "Shortcut settings",
+    "zh-CN": "快捷键设置",
+    "hi": "शॉर्टकट सेटिंग्स",
+    "es": "Configuración del atajo",
+    "ar": "إعدادات الاختصار",
+    "tr": "Kısayol ayarı"
+  },
+  "Ctrl veya Alt ile bir harf, sayı ya da F tuşuna basın.": {
+    "en": "Press Ctrl or Alt with a letter, number or F key.",
+    "zh-CN": "按 Ctrl 或 Alt 加字母、数字或 F 键。",
+    "hi": "Ctrl या Alt के साथ अक्षर, अंक या F कुंजी दबाएँ।",
+    "es": "Pulse Ctrl o Alt con una letra, número o tecla F.",
+    "ar": "اضغط Ctrl أو Alt مع حرف أو رقم أو مفتاح F.",
+    "tr": "Ctrl veya Alt ile bir harf, sayı ya da F tuşuna basın."
+  },
+  "Yeni kısayol": {
+    "en": "New shortcut",
+    "zh-CN": "新快捷键",
+    "hi": "नया शॉर्टकट",
+    "es": "Nuevo atajo",
+    "ar": "الاختصار الجديد",
+    "tr": "Yeni kısayol"
+  },
+  "Kısayol başka bir programdaysa önceki ayar korunur.": {
+    "en": "If another application uses the shortcut, the previous setting is preserved.",
+    "zh-CN": "如果快捷键被其他应用占用，将保留原有设置。",
+    "hi": "दूसरे ऐप में शॉर्टकट उपयोग हो रहा हो तो पिछली सेटिंग सुरक्षित रहती है।",
+    "es": "Si otra aplicación usa el atajo, se conserva el ajuste anterior.",
+    "ar": "إذا كان تطبيق آخر يستخدم الاختصار، فسيُحفظ الإعداد السابق.",
+    "tr": "Kısayol başka bir programdaysa önceki ayar korunur."
+  },
+  "Kaydet ile uygulayın.": {
+    "en": "Apply with Save.",
+    "zh-CN": "点击保存以应用。",
+    "hi": "लागू करने के लिए सहेजें दबाएँ।",
+    "es": "Pulse Guardar para aplicar.",
+    "ar": "اضغط حفظ للتطبيق.",
+    "tr": "Kaydet ile uygulayın."
+  },
+  "Ctrl/Alt ile harf, sayı veya F tuşu kullanın. F12 ve Alt+F4 ayrılamaz.": {
+    "en": "Use Ctrl/Alt with a letter, number or F key. F12 and Alt+F4 cannot be assigned.",
+    "zh-CN": "使用 Ctrl/Alt 加字母、数字或 F 键。不能分配 F12 和 Alt+F4。",
+    "hi": "Ctrl/Alt के साथ अक्षर, अंक या F कुंजी चुनें। F12 और Alt+F4 नहीं चुने जा सकते।",
+    "es": "Use Ctrl/Alt con una letra, número o tecla F. F12 y Alt+F4 no se pueden asignar.",
+    "ar": "استخدم Ctrl/Alt مع حرف أو رقم أو مفتاح F. لا يمكن تعيين F12 أو Alt+F4.",
+    "tr": "Ctrl/Alt ile harf, sayı veya F tuşu kullanın. F12 ve Alt+F4 ayrılamaz."
+  },
+  "Varsayılan": {
+    "en": "Default",
+    "zh-CN": "默认",
+    "hi": "डिफ़ॉल्ट",
+    "es": "Predeterminado",
+    "ar": "الافتراضي",
+    "tr": "Varsayılan"
+  },
+  "Kaydet": {
+    "en": "Save",
+    "zh-CN": "保存",
+    "hi": "सहेजें",
+    "es": "Guardar",
+    "ar": "حفظ",
+    "tr": "Kaydet"
+  },
+  "İptal": {
+    "en": "Cancel",
+    "zh-CN": "取消",
+    "hi": "रद्द करें",
+    "es": "Cancelar",
+    "ar": "إلغاء",
+    "tr": "İptal"
+  },
+  "Kısayol ayarı okunamadı; varsayılan kullanılıyor. Mevcut ayar dosyası korunuyor.": {
+    "en": "Shortcut settings could not be read; using the default. The existing settings file is preserved.",
+    "zh-CN": "无法读取快捷键设置；使用默认值。原设置文件已保留。",
+    "hi": "शॉर्टकट सेटिंग्स पढ़ी नहीं जा सकीं; डिफ़ॉल्ट उपयोग हो रहा है। मौजूदा फ़ाइल सुरक्षित है।",
+    "es": "No se pudo leer el atajo; se usa el predeterminado. Se conserva el archivo existente.",
+    "ar": "تعذّرت قراءة إعدادات الاختصار؛ سيُستخدم الافتراضي. تم الحفاظ على الملف الحالي.",
+    "tr": "Kısayol ayarı okunamadı; varsayılan kullanılıyor. Mevcut ayar dosyası korunuyor."
+  },
+  "Geçerli bir kısayol seçin.": {
+    "en": "Choose a valid shortcut.",
+    "zh-CN": "请选择有效的快捷键。",
+    "hi": "मान्य शॉर्टकट चुनें।",
+    "es": "Elija un atajo válido.",
+    "ar": "اختر اختصارًا صالحًا.",
+    "tr": "Geçerli bir kısayol seçin."
+  },
+  "Kısayol kaydedilemedi; önceki ayar korunuyor.": {
+    "en": "The shortcut could not be saved; the previous setting is preserved.",
+    "zh-CN": "无法保存快捷键；原有设置已保留。",
+    "hi": "शॉर्टकट सहेजा नहीं जा सका; पिछली सेटिंग सुरक्षित है।",
+    "es": "No se pudo guardar el atajo; se conserva el ajuste anterior.",
+    "ar": "تعذّر حفظ الاختصار؛ تم الحفاظ على الإعداد السابق.",
+    "tr": "Kısayol kaydedilemedi; önceki ayar korunuyor."
+  },
+  "Bu kısayol kullanılamıyor. Başka bir kısayol seçin; önceki ayar korunuyor.": {
+    "en": "This shortcut is unavailable. Choose another; the previous setting is preserved.",
+    "zh-CN": "此快捷键不可用。请选择其他快捷键；原有设置已保留。",
+    "hi": "यह शॉर्टकट उपलब्ध नहीं है। दूसरा चुनें; पिछली सेटिंग सुरक्षित है।",
+    "es": "Este atajo no está disponible. Elija otro; se conserva el ajuste anterior.",
+    "ar": "هذا الاختصار غير متاح. اختر غيره؛ تم الحفاظ على الإعداد السابق.",
+    "tr": "Bu kısayol kullanılamıyor. Başka bir kısayol seçin; önceki ayar korunuyor."
+  },
+  "Kullanıcı başlangıç anahtarı açılamadı.": {
+    "en": "The user startup registry key could not be opened.",
+    "zh-CN": "无法打开用户启动注册表项。",
+    "hi": "उपयोगकर्ता स्टार्टअप रजिस्ट्री कुंजी नहीं खुल सकी।",
+    "es": "No se pudo abrir la clave de inicio del usuario.",
+    "ar": "تعذّر فتح مفتاح بدء تشغيل المستخدم في السجل.",
+    "tr": "Kullanıcı başlangıç anahtarı açılamadı."
+  },
+  "EXE dosyası bulunamadı.": {
+    "en": "The EXE file was not found.",
+    "zh-CN": "未找到 EXE 文件。",
+    "hi": "EXE फ़ाइल नहीं मिली।",
+    "es": "No se encontró el archivo EXE.",
+    "ar": "لم يُعثر على ملف EXE.",
+    "tr": "EXE dosyası bulunamadı."
+  },
+  "Dil": {
+    "en": "Language",
+    "zh-CN": "语言",
+    "hi": "भाषा",
+    "es": "Idioma",
+    "ar": "اللغة",
+    "tr": "Dil"
+  },
+  "Uygulama dili": {
+    "en": "Application language",
+    "zh-CN": "应用语言",
+    "hi": "ऐप की भाषा",
+    "es": "Idioma de la aplicación",
+    "ar": "لغة التطبيق",
+    "tr": "Uygulama dili"
+  },
+  "Değişiklik hemen uygulanır.": {
+    "en": "Changes apply immediately.",
+    "zh-CN": "更改立即生效。",
+    "hi": "बदलाव तुरंत लागू होता है।",
+    "es": "El cambio se aplica al instante.",
+    "ar": "يُطبّق التغيير فورًا.",
+    "tr": "Değişiklik hemen uygulanır."
+  },
+  "Seçilen dil desteklenmiyor.": {
+    "en": "The selected language is not supported.",
+    "zh-CN": "不支持所选语言。",
+    "hi": "चुनी गई भाषा समर्थित नहीं है।",
+    "es": "El idioma elegido no es compatible.",
+    "ar": "اللغة المختارة غير مدعومة.",
+    "tr": "Seçilen dil desteklenmiyor."
+  },
+  "Kaynak: {0}": {
+    "en": "Source: {0}",
+    "zh-CN": "来源：{0}",
+    "hi": "स्रोत: {0}",
+    "es": "Origen: {0}",
+    "ar": "المصدر: {0}",
+    "tr": "Kaynak: {0}"
+  },
+  "{0} klasörüne git: {1}": {
+    "en": "Go to folder {0}: {1}",
+    "zh-CN": "转到文件夹 {0}：{1}",
+    "hi": "फ़ोल्डर {0} में जाएँ: {1}",
+    "es": "Ir a la carpeta {0}: {1}",
+    "ar": "الانتقال إلى المجلد {0}: {1}",
+    "tr": "{0} klasörüne git: {1}"
+  },
+  "Açık dosya penceresinde bu klasöre geçin.": {
+    "en": "Switch to this folder in the open file dialog.",
+    "zh-CN": "在当前文件对话框中切换到此文件夹。",
+    "hi": "खुली फ़ाइल विंडो में इस फ़ोल्डर पर जाएँ।",
+    "es": "Cambie a esta carpeta en el diálogo abierto.",
+    "ar": "انتقل إلى هذا المجلد في نافذة الملفات المفتوحة.",
+    "tr": "Açık dosya penceresinde bu klasöre geçin."
+  },
+  "Kısayol: {0}.": {
+    "en": "Shortcut: {0}.",
+    "zh-CN": "快捷键：{0}。",
+    "hi": "शॉर्टकट: {0}।",
+    "es": "Atajo: {0}.",
+    "ar": "الاختصار: {0}.",
+    "tr": "Kısayol: {0}."
+  },
+  "{0} kullanılamıyor; satıra tıklayın.": {
+    "en": "{0} is unavailable; click the bar.",
+    "zh-CN": "{0} 不可用；请点击文件夹栏。",
+    "hi": "{0} उपलब्ध नहीं है; पट्टी पर क्लिक करें।",
+    "es": "{0} no está disponible; pulse la barra.",
+    "ar": "{0} غير متاح؛ انقر على الشريط.",
+    "tr": "{0} kullanılamıyor; satıra tıklayın."
+  },
+  "{0} klasör kaydı var.": {
+    "en": "{0} folder entries saved.",
+    "zh-CN": "已保存 {0} 条文件夹记录。",
+    "hi": "{0} फ़ोल्डर रिकॉर्ड सहेजे गए।",
+    "es": "{0} registros de carpetas guardados.",
+    "ar": "عدد سجلات المجلدات المحفوظة: {0}.",
+    "tr": "{0} klasör kaydı var."
+  },
+  "{0} klasörünü favoriden kaldır": {
+    "en": "Remove {0} from favorites",
+    "zh-CN": "从收藏夹移除 {0}",
+    "hi": "{0} को पसंदीदा से हटाएँ",
+    "es": "Quitar {0} de favoritas",
+    "ar": "إزالة {0} من المفضلة",
+    "tr": "{0} klasörünü favoriden kaldır"
+  }
+}
