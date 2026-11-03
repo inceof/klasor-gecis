@@ -4,14 +4,18 @@
 
 ## English
 
+**Reach a folder you already have open in File Explorer directly from an application's Open or Save dialog.**
+
+Klasör Geçiş reduces repeated folder navigation when opening, saving, exporting or selecting files. If your project folder is already open in Explorer, use one click or **Ctrl+G** to reach it from the file dialog instead of browsing through the same directory tree again.
+
+For example, keep a project folder open while working on a document or an image. When you choose Save As, use the folder bar to reach that folder. Its menu also lets you choose another open Explorer folder, a favorite or an optional recent folder.
+
 **Preview release:** [Download v0.5.0](https://github.com/inceof/klasor-gecis/releases/tag/v0.5.0).
 Choose the Setup EXE to install, or the portable ZIP and extract all files.
 Keep the included license notices. This is an unsigned build; verify the
 SHA-256 file published with the release.
 
-Switch an application's **Open / Save** dialog to a folder open in File Explorer
-with one click or **Ctrl+G**. A small Windows x64 utility built with .NET 10 and
-WinForms, running in the notification area. Version **0.5.0**.
+Built with .NET 10 and WinForms, the app runs in the Windows notification area. Version **0.5.0**.
 
 Six built-in languages: **Türkçe, English, 中文（简体）, हिन्दी, Español, العربية**.
 Choose a language in **Settings → General → Application language**. The choice
@@ -35,7 +39,59 @@ device/accessibility and native-speaker translation review remain unvalidated. S
 instructions below for test commands. Source code is [MIT licensed](LICENSE);
 third-party installer translation credits remain in `installer/Languages`.
 
+### Features
+
+- A compact folder bar attached to standard Windows Open/Save dialogs.
+- Open Explorer folders, favorites and optional recent folders in one menu.
+- A configurable global shortcut; the default is **Ctrl+G**.
+- Controls designed to preserve the typed filename, file type and input focus during navigation.
+- Optional automatic switching when returning from Explorer to the file dialog.
+- Optional history and startup with Windows.
+
+### Download and install
+
+| Download | Use |
+| --- | --- |
+| [Setup EXE](https://github.com/inceof/klasor-gecis/releases/download/v0.5.0/KlasorGecis_Setup_0.5.0_x64.exe) | Installs for the current Windows user without administrator rights. Desktop shortcut and startup tasks are optional. |
+| [Portable ZIP](https://github.com/inceof/klasor-gecis/releases/download/v0.5.0/KlasorGecis-0.5.0-win-x64-portable.zip) | Extract all files, then run `KlasorGecis.exe`. Keep the included license files. |
+| [SHA256SUMS.txt](https://github.com/inceof/klasor-gecis/releases/download/v0.5.0/SHA256SUMS.txt) | Compare the SHA-256 of your download with the published value. |
+
+The downloads target **Windows x64** and include the .NET runtime; a separate .NET installation is not required to run the app. The binaries are **unsigned**. Version 0.5.0 is a public preview; see the release notes for its validation limits.
+
+The installer uses `%LOCALAPPDATA%\Programs\KlasorGecis`. To uninstall, exit the app from its tray menu and use Windows **Settings → Apps**. Preferences are retained. Exit the portable app before moving its folder.
+
+### Quick start
+
+1. Start the app; its icon appears in the Windows notification area.
+2. Open the folder you want to use in File Explorer.
+3. Open a standard **Open**, **Save** or **Save As** dialog in your application.
+4. Click the folder bar or press **Ctrl+G**. Use the menu to choose another open folder, favorite or recent folder.
+
+Open **Settings** from the tray menu to change the shortcut, favorites and history. If Ctrl+G is registered by another app, choose a different shortcut under **Settings → Shortcut**. Automatic switching and history are off by default. Use **Exit** in the tray menu to close the app. The installer language and application language are selected separately.
+
+### Privacy and local data
+
+Preferences and diagnostic logs are stored locally in `%LOCALAPPDATA%\KlasorGecis`. Folder history is optional and disabled by default. When enabled, it stores recently used folder paths, the associated application identity and timestamps. History can be cleared from Settings.
+
+Review logs and screenshots before attaching them to an issue; remove personal paths and confidential information.
+
+### Development, feedback and license
+
+Build and test commands are included in the Turkish development section below. Live tests use the mouse and focus and create controlled Explorer windows; exit the running app first and run live groups one at a time.
+
+[GitHub Actions](https://github.com/inceof/klasor-gecis/actions) builds on Windows using SDK 10.0.300, runs rule tests and PowerShell 7/5.1 checksum checks, and retains portable artifacts with license notices for seven days. Native UI and installer acceptance are separate checks.
+
+[Report a bug or suggest an improvement](https://github.com/inceof/klasor-gecis/issues). Include the app and Windows versions, target application, interface language, expected behavior and steps to reproduce. Contributions are welcome; describe the change and relevant validation in your pull request.
+
+The application source is [MIT licensed](LICENSE). Bundled components retain their own licenses; see [third-party notices](THIRD-PARTY-NOTICES.md), `licenses/` and the installer translation credits in `installer/Languages/`.
+
 ## Türkçe
+
+**Dosya Gezgini'nde zaten açık olan klasöre, başka bir uygulamanın Aç veya Kaydet penceresinden doğrudan geçin.**
+
+Klasör Geçiş; dosya açarken, kaydederken, dışa aktarırken veya dosya seçerken aynı klasörlere tekrar tekrar gitme ihtiyacını azaltır. Çalıştığınız klasör Gezgin'de açıksa, dosya penceresini tek tıklamayla veya **Ctrl+G** ile o klasöre yönlendirebilirsiniz.
+
+Örneğin bir belge veya görsel üzerinde çalışırken proje klasörünü Gezgin'de açık tutun. Farklı Kaydet dediğinizde klasör satırını kullanarak o klasöre geçin. Menüden diğer açık klasörleri, favorilerinizi veya isteğe bağlı son klasörleri de seçebilirsiniz.
 
 **Ön sürüm:** [v0.5.0 indir](https://github.com/inceof/klasor-gecis/releases/tag/v0.5.0).
 Kurulum için Setup EXE'yi, taşınabilir kullanım için ZIP'i seçip tüm dosyaları
@@ -65,6 +121,18 @@ kurulum dili ile uygulamada kaydedilen dil birbirinden bağımsızdır.
 - Dosya adı, dosya türü ve giriş odağını korumaya yönelik kontroller.
 - İsteğe bağlı otomatik geçiş ve Windows ile başlangıç.
 
+## İndirme ve kurulum
+
+| İndirme | Kullanım |
+| --- | --- |
+| [Setup EXE](https://github.com/inceof/klasor-gecis/releases/download/v0.5.0/KlasorGecis_Setup_0.5.0_x64.exe) | Yönetici yetkisi gerektirmeden mevcut kullanıcıya kurar. Masaüstü kısayolu ve başlangıç seçenekleri isteğe bağlıdır. |
+| [Taşınabilir ZIP](https://github.com/inceof/klasor-gecis/releases/download/v0.5.0/KlasorGecis-0.5.0-win-x64-portable.zip) | Tüm dosyaları çıkarıp `KlasorGecis.exe` dosyasını çalıştırın. Lisans dosyalarını koruyun. |
+| [SHA256SUMS.txt](https://github.com/inceof/klasor-gecis/releases/download/v0.5.0/SHA256SUMS.txt) | İndirdiğiniz dosyanın SHA-256 özetini yayımlanan değerle karşılaştırın. |
+
+Paketler **Windows x64** içindir ve .NET çalışma zamanını içerir; çalıştırmak için ayrıca .NET kurmanız gerekmez. Güncel sürüm bir ön sürümdür; doğrulama sınırları sürüm notlarında açıklanır.
+
+Kurulum yolu `%LOCALAPPDATA%\Programs\KlasorGecis` klasörüdür. Kaldırmak için önce bildirim alanındaki menüden programı kapatın, ardından Windows **Ayarlar → Uygulamalar** bölümünü kullanın. Tercihler korunur. Taşınabilir klasörü taşımadan önce programdan çıkın.
+
 ## Kullanım
 
 1. Programı çalıştırın; bildirim alanında klasör simgesi görünür.
@@ -75,6 +143,8 @@ kurulum dili ile uygulamada kaydedilen dil birbirinden bağımsızdır.
 
 Tercihler bildirim alanındaki **Ayarlar…** komutundadır. Otomatik geçiş ve
 geçmiş başlangıçta kapalıdır. Programı **Çıkış** komutuyla kapatabilirsiniz.
+
+Ctrl+G başka bir uygulamada kayıtlıysa **Ayarlar → Kısayol** bölümünden farklı bir kısayol seçin.
 
 ## Kaynaktan derleme
 
@@ -121,24 +191,24 @@ senaryolar için doğrulanmış değildir. Hata bildirirken Windows sürümünü
 hedef uygulamayı ve yeniden üretme adımlarını belirtin; kişisel dosya yollarını
 ve gizli bilgileri paylaşmadan önce çıkarın.
 
-## Veri ve lisans
+## Gizlilik, veri ve lisans
 
 Tercihler `%LOCALAPPDATA%\KlasorGecis` altında saklanır. İzin verilirse son
-klasörler ve ilgili uygulama kaydedilir; dosya adları ve yazılan metinler geçmişe
+klasörler, ilgili uygulama kimliği ve zaman bilgisi kaydedilir; dosya adları ve yazılan metinler geçmişe
 eklenmez. Tanılama kaydı da bu klasördedir.
+
+Geçmiş varsayılan olarak kapalıdır ve Ayarlar'dan temizlenebilir. Günlük veya ekran görüntüsü paylaşmadan önce kişisel yolları ve gizli bilgileri çıkarın.
 
 Bu projenin kaynak kodu [MIT lisansı](LICENSE) ile sunulur.
 .NET ve derleme araçlarının lisansları kendi bileşenlerine aittir.
 Katkılar ve hata bildirimleri memnuniyetle karşılanır.
 
-Distributions include `LICENSE`, `THIRD-PARTY-NOTICES.md` and `licenses/`. Keep these with the portable EXE. / Taşınabilir EXE ile birlikte bu lisans dosyalarını da saklayın.
+[Hata bildirin veya geliştirme önerin](https://github.com/inceof/klasor-gecis/issues). Uygulama ve Windows sürümünü, hedef programı, arayüz dilini, beklediğiniz davranışı ve tekrar adımlarını belirtin. Pull request açıklamasında değişikliği ve ilgili doğrulamayı yazın.
 
-## Automated checks / Otomatik kontroller
+Dağıtımlardaki `LICENSE`, `THIRD-PARTY-NOTICES.md` ve `licenses/` dosyalarını taşınabilir EXE ile birlikte saklayın.
 
-GitHub Actions builds on Windows using .NET SDK 10.0.300, runs the existing
-rule tests and checksum checks (PowerShell 7 and 5.1), and stores portable files
-with license notices for 7 days. Native UI and installer acceptance are separate.
-The workflow runs after publication; local checks alone do not prove a hosted CI run.
+## Otomatik kontroller
 
 GitHub Actions her değişiklikte Windows derlemesini ve mevcut testleri çalıştırır.
-GUI/kurulum testleri bu akışa dahil değildir.
+SDK 10.0.300 ve PowerShell 7/5.1 dosya özeti kontrolleri kullanılır; lisansları içeren taşınabilir çıktılar yedi gün saklanır. GUI/kurulum testleri bu akışa dahil değildir.
+
